@@ -1,0 +1,7 @@
+export const  input_change ='input_change'
+export const  submitActions ='submitAction'
+export const  editActions ='editAction'
+export const  deleteActions ='deleteAction'
+export const  checkboxChangeActions ='checkboxChangeAction'
+export const  deleteSelectedActions ='deleteSelectedAction'
+export const  selectAllActions ='selectAllAction'
